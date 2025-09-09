@@ -1,2 +1,25 @@
-# sql-data-warehouse-project
-Building a modern data warehouse with SQL (Azure Data Studio), including ETL processes, data modeling, and analytics.
+# Data Warehouse and Analytics Project
+
+Welcome to the **Data Warehouse and Analytics Project** repository!
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generatingactionable insights. Designed as a portfolio project it highlights industry best practices in data engineering and analytics.
+
+---
+## **Project Requirements**
+
+### Building Data Warehouse
+
+#### Objective
+
+#### Specifications
+
+---
+
+### BI: Analytics & Reporting
+
+#### Objective
+
+---
+
+## License
+
+## About me
